@@ -1,0 +1,31 @@
+review_id,product_key,product_name,brand,category,customer_key,customer_name,rating,review_title,review_text,review_date,helpful_votes,verified_purchase
+1,P001,AeroBrew Coffee Grinder,AeroBrew,Kitchen,C001,Mona Ali,5,Great grinder,Consistent grind size and easy to clean.,2025-11-03,12,Yes
+2,P001,AeroBrew Coffee Grinder,AeroBrew,Kitchen,C002,Omar Hassan,4,Solid value,"Works well, but it’s a bit loud.",2025-11-10,4,Yes
+3,P001,AeroBrew Coffee Grinder,AeroBrew,Kitchen,C003,Salma Nabil,3,Okay,"Fine for drip coffee, struggles with espresso-fine.",2025-12-02,2,No
+4,P002,LumaFit Smart Scale,LumaFit,Fitness,C004,Karim Youssef,5,Accurate,Matches my gym scale and syncs fast.,2025-10-18,7,Yes
+5,P002,LumaFit Smart Scale,LumaFit,Fitness,C005,Hana Adel,4,Good app,"Data charts are useful, wish battery lasted longer.",2025-11-01,3,Yes
+6,P002,LumaFit Smart Scale,LumaFit,Fitness,C001,Mona Ali,2,Unreliable,Readings fluctuate a lot on carpet.,2025-11-22,5,No
+7,P003,SkyLite Desk Lamp,SkyLite,Home Office,C006,Yara Said,5,Perfect light,Warm modes are great for evening work.,2025-09-07,9,Yes
+8,P003,SkyLite Desk Lamp,SkyLite,Home Office,C002,Omar Hassan,4,Nice lamp,"Bright and adjustable, base could be heavier.",2025-09-14,1,Yes
+9,P003,SkyLite Desk Lamp,SkyLite,Home Office,C007,Tarek Fathy,5,Love it,No flicker and easy touch controls.,2025-10-01,6,Yes
+10,P004,NovaSound Wireless Earbuds,NovaSound,Electronics,C008,Nour Emad,3,Decent,"Sound is okay, noise canceling is average.",2025-12-11,0,Yes
+11,P004,NovaSound Wireless Earbuds,NovaSound,Electronics,C003,Salma Nabil,4,Good for calls,Mic quality is strong; bass is moderate.,2025-12-20,2,Yes
+12,P004,NovaSound Wireless Earbuds,NovaSound,Electronics,C009,Mahmoud Samir,2,Battery issue,Left earbud drains faster than right.,2026-01-05,8,No
+13,P005,TrailMate Stainless Bottle 750ml,TrailMate,Outdoors,C010,Laila Farid,5,Keeps cold,Ice lasted the whole day in summer.,2025-08-22,10,Yes
+14,P005,TrailMate Stainless Bottle 750ml,TrailMate,Outdoors,C004,Karim Youssef,4,Great bottle,Slight condensation on very humid days.,2025-09-02,2,Yes
+15,P005,TrailMate Stainless Bottle 750ml,TrailMate,Outdoors,C005,Hana Adel,5,Best bottle,No leaks and fits my car cup holder.,2025-09-10,5,Yes
+16,P006,PureGlow Vitamin C Serum,PureGlow,Beauty,C006,Yara Said,4,Nice glow,"Brightens skin, but has a strong scent.",2025-10-30,3,Yes
+17,P006,PureGlow Vitamin C Serum,PureGlow,Beauty,C001,Mona Ali,5,Works,Helped fade dark spots after a few weeks.,2025-11-28,11,Yes
+18,P006,PureGlow Vitamin C Serum,PureGlow,Beauty,C009,Mahmoud Samir,1,Irritation,Caused redness—may be too strong for sensitive skin.,2025-12-03,6,No
+19,P007,PixelNote A5 Notebook,PixelNote,Stationery,C002,Omar Hassan,5,Great paper,Ink doesn’t bleed through with my pen.,2025-07-19,4,Yes
+20,P007,PixelNote A5 Notebook,PixelNote,Stationery,C007,Tarek Fathy,4,Good quality,Binding is solid; pages are slightly off-white.,2025-08-01,1,Yes
+21,P007,PixelNote A5 Notebook,PixelNote,Stationery,C008,Nour Emad,3,Average,Cover scratches easily in my bag.,2025-08-06,0,Yes
+22,P008,BreezeAir Mini Fan,BreezeAir,Home,C010,Laila Farid,4,Helpful,Good airflow for its size.,2026-02-02,2,Yes
+23,P008,BreezeAir Mini Fan,BreezeAir,Home,C003,Salma Nabil,2,Noisy,Motor noise is distracting on the desk.,2026-02-10,1,Yes
+24,P008,BreezeAir Mini Fan,BreezeAir,Home,C004,Karim Youssef,5,Surprisingly strong,Cools quickly and the battery is solid.,2026-02-15,7,Yes
+25,P004,NovaSound Wireless Earbuds,NovaSound,Electronics,C005,Hana Adel,4.0,Pretty good,Comfortable fit; case feels cheap.,02/20/2026,,Yes
+26,P003,SkyLite Desk Lamp,SkyLite,Home Office,C009,Mahmoud Samir,5,Excellent,Arrived fast.  Works as described.,2026-01-18,3,Yes
+27,P006,PureGlow Vitamin C Serum,PureGlow,Beauty,C008,Nour Emad,4,Good,Smoother texture. Will repurchase.,2026-01-25,2,YES
+28,P002,LumaFit Smart Scale,LumaFit,Fitness,C007,Tarek Fathy,3,So-so,App login required; would prefer offline mode.,2026-02-27,0,No
+29,P005,TrailMate Stainless Bottle 750ml,TrailMate,Outdoors,C003,Salma Nabil,5,Fantastic,Zero leaks after a month of daily use.,2026-03-01,6,Yes
+30,P001,AeroBrew Coffee Grinder,AeroBrew,Kitchen,C010,Laila Farid,4,Good,Grinds evenly; lid can be tricky to align.,2026-03-03,1,Yes
